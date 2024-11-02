@@ -2,7 +2,6 @@
 [![OpenGL](https://img.shields.io/badge/OpenGL-3.3-blue.svg)](https://www.opengl.org/)
 [![GLUT](https://img.shields.io/badge/GLUT-3.0-green.svg)](https://www.opengl.org/resources/libraries/glut/)
 [![C](https://img.shields.io/badge/language-C-orange.svg)](https://en.wikipedia.org/wiki/C_(programming_language))
-[![License](https://img.shields.io/badge/license-MIT-brightgreen.svg)](LICENSE)
 
 > Simulación interactiva del Sistema Solar desarrollada en C con OpenGL, incluyendo planetas, lunas, cinturones de asteroides y objetos transneptunianos.
 
@@ -105,10 +104,6 @@ void resize();
 - Universidad Veracruzana
 - Ingeniería en Informática
 - zS21002379
-
-## 📄 Licencia
-
-Este proyecto está bajo la Licencia MIT - consulta el archivo [LICENSE](LICENSE) para más detalles.
 
 ## 📝 Notas de Implementación
 
