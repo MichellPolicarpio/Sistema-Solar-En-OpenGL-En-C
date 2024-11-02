@@ -110,21 +110,6 @@ void resize();
 
 Este proyecto está bajo la Licencia MIT - consulta el archivo [LICENSE](LICENSE) para más detalles.
 
-## 🤝 Contribuciones
-
-Las contribuciones son bienvenidas. Para cambios importantes:
-
-1. Haz Fork del repositorio
-2. Crea una nueva rama
-3. Realiza tus cambios
-4. Envía un Pull Request
-
-## ✨ Agradecimientos
-
-- Universidad Veracruzana
-- Facultad de Ingeniería en Informática
-- Comunidad OpenGL
-
 ## 📝 Notas de Implementación
 
 - El proyecto utiliza GLUT para la gestión de ventanas y eventos
@@ -132,3 +117,10 @@ Las contribuciones son bienvenidas. Para cambios importantes:
 - Los asteroides se generan aleatoriamente dentro de rangos específicos
 - Se implementa un sistema de cámara móvil para mejor visualización
 - Los anillos planetarios se generan mediante GL_QUADS
+
+## ✨ Agradecimientos
+
+- Universidad Veracruzana
+- Facultad de Ingeniería Electrica y Electronica (FIEE)
+- Comunidad OpenGL
+- MTRA. Yuliana Berumen Díaz
